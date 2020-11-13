@@ -3,7 +3,6 @@
 # SPDX-License-Identifier: BSD-3-Clause
 # For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
 
-
 export BATCHSIZE=16 #32 is also ok
 export EPOCHSIZE=20
 export LEARNINGRATE=1e-6

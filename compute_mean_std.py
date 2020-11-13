@@ -7,9 +7,6 @@
 import statistics
 
 
-
-
-
 # initializing list
 test_list = [85.13  , 87.56  , 77.50 ]
 
