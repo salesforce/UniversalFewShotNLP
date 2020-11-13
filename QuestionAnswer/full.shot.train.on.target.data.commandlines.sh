@@ -1,3 +1,8 @@
+# Copyright (c) 2018, salesforce.com, inc.
+# All rights reserved.
+# SPDX-License-Identifier: BSD-3-Clause
+# For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
+
 export SHOT=10 #1, 3, 5, 10, 0
 export BATCHSIZE=5 #2, 4, 4, 5, 8
 export EPOCHSIZE=20

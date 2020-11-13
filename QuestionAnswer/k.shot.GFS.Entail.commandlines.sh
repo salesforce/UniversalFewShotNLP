@@ -1,3 +1,8 @@
+# Copyright (c) 2018, salesforce.com, inc.
+# All rights reserved.
+# SPDX-License-Identifier: BSD-3-Clause
+# For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
+
 export SHOT=1 #1, 3, 5, 10
 export BATCHSIZE=10
 export TARGETBATCHSIZE=1  #1, 2, 2, 2; 2 is always best
